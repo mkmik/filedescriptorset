@@ -1,7 +1,7 @@
 # filedescriptorset
-    go get github.com/mmikulicic/filedescriptorset
+    go get github.com/mkmik/filedescriptorset
 
-[![GoDoc](https://godoc.org/github.com/mmikulicic/filedescriptorset?status.png)](https://godoc.org/github.com/mmikulicic/filedescriptorset)
+[![GoDoc](https://godoc.org/github.com/mkmik/filedescriptorset?status.png)](https://godoc.org/github.com/mkmik/filedescriptorset)
 
 Package filedescriptorset helps you embed protobuf descriptors, and optionally their transitive dependencies.
 
